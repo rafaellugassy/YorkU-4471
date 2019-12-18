@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 35b4e5c15a104a441afd2d4720274fff
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: TC_Bench_01_Bench01
+    100002: TC_Bench_02_Bench02
+    100004: TC_Court_Court
+    100006: TC_Fence_01_Fence01
+    100008: TC_Fence_02_Fence02
+    100010: TC_Fence_03_Fence03
+    100012: TC_Fence_04_Fence04
+    100014: TC_Gate_Gate
+    100016: TC_Net_Net
+    100018: TC_Umpire_Chair_UmpireChair
+    100020: //RootNode
+    400000: TC_Bench_01_Bench01
+    400002: TC_Bench_02_Bench02
+    400004: TC_Court_Court
+    400006: TC_Fence_01_Fence01
+    400008: TC_Fence_02_Fence02
+    400010: TC_Fence_03_Fence03
+    400012: TC_Fence_04_Fence04
+    400014: TC_Gate_Gate
+    400016: TC_Net_Net
+    400018: TC_Umpire_Chair_UmpireChair
+    400020: //RootNode
+    2100000: TC_Bench_01_Bench01Mat
+    2100002: TC_Bench_02_Bench02Mat
+    2100004: TC_Court_CourtMat
+    2100006: TC_Fence_01_Fence01Mat
+    2100008: TC_Fence_02_Fence02Mat
+    2100010: TC_Fence_03_Fence03Mat
+    2100012: TC_Fence_04_Fence04Mat
+    2100014: TC_Gate_GateMat
+    2100016: TC_Net_NetMat
+    2100018: TC_Umpire_Chair_UmpireChairMat
+    2300000: TC_Bench_01_Bench01
+    2300002: TC_Bench_02_Bench02
+    2300004: TC_Court_Court
+    2300006: TC_Fence_01_Fence01
+    2300008: TC_Fence_02_Fence02
+    2300010: TC_Fence_03_Fence03
+    2300012: TC_Fence_04_Fence04
+    2300014: TC_Gate_Gate
+    2300016: TC_Net_Net
+    2300018: TC_Umpire_Chair_UmpireChair
+    3300000: TC_Bench_01_Bench01
+    3300002: TC_Bench_02_Bench02
+    3300004: TC_Court_Court
+    3300006: TC_Fence_01_Fence01
+    3300008: TC_Fence_02_Fence02
+    3300010: TC_Fence_03_Fence03
+    3300012: TC_Fence_04_Fence04
+    3300014: TC_Gate_Gate
+    3300016: TC_Net_Net
+    3300018: TC_Umpire_Chair_UmpireChair
+    4300000: TC_Bench_01_Bench01
+    4300002: TC_Bench_02_Bench02
+    4300004: TC_Court_Court
+    4300006: TC_Fence_01_Fence01
+    4300008: TC_Fence_02_Fence02
+    4300010: TC_Fence_03_Fence03
+    4300012: TC_Fence_04_Fence04
+    4300014: TC_Gate_Gate
+    4300016: TC_Net_Net
+    4300018: TC_Umpire_Chair_UmpireChair
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

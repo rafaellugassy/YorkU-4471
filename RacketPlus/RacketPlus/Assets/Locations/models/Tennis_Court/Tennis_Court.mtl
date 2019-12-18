@@ -1,0 +1,63 @@
+newmtl Court_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TC_Court_Diffuse.jpg
+bump TC_Court_Bump.jpg -bm 0.004
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Fence_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TC_Fence_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Metal_Green_material
+illum 4
+Kd 0.06 0.22 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.77 0.77 0.77
+newmtl Metal_material
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.76 0.76 0.76
+newmtl Net_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TC_Net_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Plastic_Black_material
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Plastic_White_material
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Rope_material
+illum 4
+Kd 0.94 0.94 0.94
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

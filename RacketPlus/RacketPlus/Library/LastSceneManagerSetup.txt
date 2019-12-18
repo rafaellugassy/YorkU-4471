@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Original Scenes/Baseball-Tennis Scene.unity
+  isLoaded: 1
+  isActive: 1
